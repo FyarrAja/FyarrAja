@@ -20,8 +20,8 @@
 
 **Contact**
 
-[![TikTok](https://img.shields.io/badge/TikTok-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@onixy9)
-[![Discord](https://img.shields.io/badge/Discord-0d0d0d?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UhYb9rTShr)
+[![TikTok](https://img.shields.io/badge/TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@onixy9)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UhYb9rTShr)
 
 </div>
 
