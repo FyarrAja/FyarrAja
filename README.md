@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,github,vscode" height="40" alt="stack" />
+[![stack](https://skillicons.dev/icons?i=lua,github,vscode)](https://discord.gg/UhYb9rTShr)
 
 </div>
 
