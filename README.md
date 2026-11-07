@@ -1,17 +1,37 @@
 <div align="center">
 
-# ⚡ FyarrAja
-### `Software Developer • Windows Utilities • Systems & Automation`
+<!-- BIG CLEAN SVG TITLE (GLOW ELECTRIC CYAN) -->
+<a href="https://guns.lol/akhyar">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=FyarrAja;fyarrx" alt="FyarrAja" />
+</a>
 
-<!-- TYPING ANIMATION BANNER (100% RELIABLE & VISIBLE) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%E2%80%A2+Windows+Utilities;Building+Senja-Bar+(C+%2F+Win32);Custom+Automation+%26+System+Tools;guns.lol%2Fakhyar)](https://guns.lol/akhyar)
+<!-- RUNNING TYPING SUBTITLE -->
+<a href="https://guns.lol/akhyar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%E2%80%A2+Windows+Utilities;Building+Senja-Bar+(C+%2F+Win32);Custom+Automation+%26+System+Tools;guns.lol%2Fakhyar" alt="Typing Subtitle" />
+</a>
 
-<!-- PROFILE VIEWS COUNTER -->
+<!-- CLEAN STATUS PILLS & VIEW COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FyarrAja&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/DEVELOPER-C%20%2F%20WIN32-0d1117?style=flat-square&color=0d1117" alt="Core" />
+  <img src="https://komarev.com/ghpvc/?username=FyarrAja&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square" alt="Status" />
 </p>
 
 </div>
+
+---
+
+### 💻 `Developer Specs`
+
+```javascript
+const FyarrAja = {
+  alias: "Fyarrx",
+  domains: ["Windows Customization (C/Win32)", "System Automation", "Desktop Utilities"],
+  featuredProject: "Senja-Bar — Taskbar Customization for Windows",
+  coreStack: ["C (Win32)", "JavaScript", "TypeScript", "Node.js", "Lua", "Java"],
+  profile: "https://guns.lol/akhyar"
+};
+```
 
 ---
 
@@ -90,8 +110,4 @@
 
 <div align="center">
 
-[![Profile](https://img.shields.io/badge/guns.lol-akhyar-0f172a?style=for-the-badge&logo=linktree&logoColor=38bdf8)](https://guns.lol/akhyar)
-
-<p><sub>Kunjungi profil resmi di Guns.lol</sub></p>
-
-</div>
+[![Profile](https://img.shields.io/badge/guns.lol-akhyar-0f172a
