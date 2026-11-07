@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- GLITCH WAVING BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:000000&height=230&section=header&text=FyarrAja&fontSize=68&fontColor=ffffff&animation=glitch&fontAlign=50&fontAlignY=58&desc=Software%20Developer%20%E2%80%A2%20Windows%20Utilities%20%26%20Automation&descAlign=50&descAlignY=80&descSize=16&descColor=38bdf8)
+# ⚡ FyarrAja
+### `Software Developer • Windows Utilities • Systems & Automation`
 
-<!-- RUNNING TYPING SVG (HIGH VISIBILITY) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Developer+%E2%80%A2+Windows+Utilities;Building+Senja-Bar+(C+%2F+Win32);Custom+Automation+%26+System+Tools;guns.lol%2Fakhyar)](https://guns.lol/akhyar)
+<!-- TYPING ANIMATION BANNER (100% RELIABLE & VISIBLE) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%E2%80%A2+Windows+Utilities;Building+Senja-Bar+(C+%2F+Win32);Custom+Automation+%26+System+Tools;guns.lol%2Fakhyar)](https://guns.lol/akhyar)
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE VIEWS COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FyarrAja&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
